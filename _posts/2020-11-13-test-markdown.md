@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: First and test blog post
 subtitle: Each post also has a subtitle
 gh-repo: vstflugel/flugel.github.io
 gh-badge: [star, fork, follow]

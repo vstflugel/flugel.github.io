@@ -7,10 +7,6 @@ comments: true
 ---
 
 
-
-
-### Overview
-
 It's the complementary function of the above functionality which is used to restore the setting's to the previous state if you have done some mistake and want's to restore the previous state then this will come handy
 
 ### Advantages
