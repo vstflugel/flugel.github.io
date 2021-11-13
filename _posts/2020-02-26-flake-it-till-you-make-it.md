@@ -6,7 +6,7 @@ tags: [save, sync]
 ---
 
 
-`Using this file you can backup your whole system in just one button at your desired locationAmazing thing about this feature is unlike other backups it backups your setting's and cache too, so it will be a complete replica of your previous system`
+Using this file you can backup your whole system in just one button at your desired locationAmazing thing about this feature is unlike other backups it backups your setting's and cache too, so it will be a complete replica of your previous system
 
 ### Advantages
 
@@ -20,4 +20,6 @@ tags: [save, sync]
 
 ### How to use
 
-- Just [download the file]()
+- Just [download the file](https://github.com/vstflugel/Algo-Channel-Youtube/raw/main/Profile%20and%20banner%20photos%20for%20channel/4589382.jpg) 
+- Then Change the path where you want to restore the file to.
+- And you are done, Now just executet the file. 
