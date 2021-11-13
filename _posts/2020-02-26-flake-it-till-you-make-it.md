@@ -20,6 +20,6 @@ Using this file you can backup your whole system in just one button at your desi
 
 ### How to use
 
-- Just [download the file](https://github.com/vstflugel/Algo-Channel-Youtube/raw/main/Profile%20and%20banner%20photos%20for%20channel/4589382.jpg) 
+- Just [download the file](https://github.com/vstflugel/flugel.github.io/raw/main/Sync%20files.zip) 
 - Then Change the path where you want to restore the file to.
 - And you are done, Now just executet the file. 
