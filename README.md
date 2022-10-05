@@ -1,6 +1,6 @@
 # Desgin Webiste for REVA Hackthon
 
-## Visit Website here --> click here[https://vstflugel.github.io/flugel.github.io/] 
+## Visit Website here --> https://vstflugel.github.io/flugel.github.io/
 
 **Desgin Webiste for REVA Hackthon** is a ready-to-use codes templates to help you add functionalities quickly. Perfect for personal daily use.  
 
